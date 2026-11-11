@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://svenskarecept.se/sitemap.xml
